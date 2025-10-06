@@ -9,13 +9,13 @@
       "matchDatasources": ["terraform-provider"],
       "rangeStrategy": "bump",
       "separateMajorMinor": true,
-      "separateMinorPatch": true,
+      "separateMinorPatch": true
     },
     {
       "matchDatasources": ["terraform"],
       "rangeStrategy": "bump",
       "separateMajorMinor": true,
-      "separateMinorPatch": true,
+      "separateMinorPatch": true
     }
   ]
 }
